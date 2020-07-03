@@ -1,0 +1,56 @@
+﻿[
+    {
+        "id": "1",
+        "name": "血瓶",
+        "propsType": "Consumerable",
+        "propRarity": "General",
+        "description": "这是血药可以加血",
+        "capacity": "10",
+        "sprite": "Sprites/Items/hp",
+        "hp": "10",
+        "mp": "0"
+    },
+    {
+        "id": "2",
+        "name": "蓝瓶",
+        "propsType": "Consumerable",
+        "propRarity": "General",
+        "description": "这是蓝瓶可以加蓝",
+        "capacity": "10",
+        "sprite": "Sprites/Items/mp",
+        "hp": "0",
+        "mp": "10"
+    },
+    {
+        "id": "3",
+        "name": "胸甲",
+        "propsType": "Weapon",
+        "propRarity": "General",
+        "description": "这是胸甲可以增加速度",
+        "capacity": "2",
+        "sprite": "Sprites/Items/armor",
+        "damage": "10",
+        "increaseSpeed": "1"
+    },
+    {
+        "id": "4",
+        "name": "金腰带",
+        "propsType": "Weapon",
+        "propRarity": "Epic",
+        "description": "这个腰带大小孩挺好",
+        "capacity": "2",
+        "sprite": "Sprites/Items/belts",
+        "damage": "1",
+        "increaseSpeed": "5"
+    },
+    {
+        "id": "5",
+        "name": "LV靴子",
+        "propsType": "Equipment",
+        "propRarity": "Rare",
+        "description": "这个靴子土豪必备",
+        "capacity": "10",
+        "sprite": "Sprites/Items/boots",
+        "intelligence": "5"
+    }
+]
